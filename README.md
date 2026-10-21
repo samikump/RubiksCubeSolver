@@ -1,4 +1,4 @@
-## 🎲 Rubik's Cube Solver - Pro 3D Edition
+## 🧩 Rubik's Cube Solver - Pro 3D Edition
 **A Java FX / Python implementation of the Kociemba solver for Rubik's Cube.**
 
 ### 📖 Project Overview
