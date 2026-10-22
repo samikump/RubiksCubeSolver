@@ -17,3 +17,8 @@ Designed with a clean **MVC-inspired architecture**, it uses **Java FX** for a v
 *   **GUI Framework**: Java FX
 *   **Build System**: Maven
 *   **Integration**: GraalVM
+
+### 🚀 How to run it
+*   Open the project in NetBeans (or your preferred IDE).
+*   Clean and Build the project using Maven.
+*   Run the `Launcher` class to start the solver.
