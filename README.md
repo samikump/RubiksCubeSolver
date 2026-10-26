@@ -22,3 +22,5 @@ Designed with a clean **MVC-inspired architecture**, it uses **Java FX** for a v
 *   Open the project in NetBeans (or your preferred IDE).
 *   Clean and Build the project using Maven.
 *   Run the `Launcher` class to start the solver.
+
+TODO: Support for 4x4x4 and 5x5x5 cubes!
