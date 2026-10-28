@@ -24,3 +24,4 @@ Designed with a clean **MVC-inspired architecture**, it uses **Java FX** for a v
 *   Run the `Launcher` class to start the solver.
 
 TODO: Support for 4x4x4 and 5x5x5 cubes!
+TODO: From near-optimal solutions to optimal solutions!
