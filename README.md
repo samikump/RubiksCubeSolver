@@ -14,7 +14,7 @@ Designed with a clean **MVC-inspired architecture**, it uses **Java FX** for a v
 
 ### 🛠️ Tech Stack & Architecture
 *   **Languages**: Java and Python
-*   **GUI Framework**: Java FX
+*   **GUI Framework**: JavaFX
 *   **Build System**: Maven
 *   **Integration**: GraalVM
 
