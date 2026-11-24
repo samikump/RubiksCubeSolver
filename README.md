@@ -24,4 +24,4 @@ Designed with a clean **MVC-inspired architecture**, it uses **Java FX** for a v
 *   Run the `Launcher` class to start the solver.
 
 TODO: Add support for 4x4x4 and 5x5x5 cubes \
-TODO: Upgrade from near-optimal (Kociemba) to optimal solutions
+TODO: Upgrade from almost optimal (Kociemba) to optimal solutions
