@@ -1,5 +1,5 @@
 ## 🧩 Rubik's Cube Solver - Pro 3D Edition
-**A Java FX / Python implementation of the Kociemba solver for Rubik's Cube.**
+**A JavaFX / Python implementation of the Kociemba solver for Rubik's Cube.**
 
 ### 📖 Project Overview
 Got stuck with Rubik's Cube? No problem! This **Java-based desktop application** gives you a near-optimal solution!  
