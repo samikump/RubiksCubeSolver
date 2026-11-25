@@ -3,7 +3,7 @@
 
 ### 📖 Project Overview
 Got stuck with Rubik's Cube? No problem! This **Java-based desktop application** gives you a near-optimal solution!  
-This version combines **3D interactive cube** and **2D mini-map** with **background Kociemba solver**, giving the near-optimal solution.  
+This version combines **3D interactive cube** and **2D mini-map** with **background Kociemba solver**.  
 Designed with a clean **MVC-inspired architecture**, it uses **JavaFX** for a vibrant UI and **Python** for background solver.
 
 ### ✨ Key Features
