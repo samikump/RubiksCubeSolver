@@ -2,7 +2,7 @@
 **A JavaFX / Python implementation of the Kociemba solver for Rubik's Cube.**
 
 ### 📖 Project Overview
-Got stuck with Rubik's Cube? No problem! This **Java-based desktop application** gives you a near-optimal solution!  
+Got stuck with Rubik's Cube? No problem! This **Java-based desktop application** solves it for you!  
 This version combines **3D interactive cube** and **2D mini-map** with **background Kociemba solver**.  
 Designed with a clean **MVC-inspired architecture**, it uses **JavaFX** for a vibrant UI and **Python** for background solver.
 
